@@ -1,0 +1,36 @@
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe.config
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.pdb
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.csprojResolveAssemblyReference.cache
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.Journal.resources
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.Properties.Resources.resources
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.csproj.GenerateResource.Cache
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.exe
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.pdb
+c:\users\liche\documents\visual studio 2015\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.LogIn.resources
+F:\Projects\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe.config
+F:\Projects\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe
+F:\Projects\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.pdb
+F:\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.csprojResolveAssemblyReference.cache
+F:\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.Journal.resources
+F:\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.LogIn.resources
+F:\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.Properties.Resources.resources
+F:\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.csproj.GenerateResource.Cache
+F:\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.exe
+F:\Projects\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.pdb
+F:\Projects\Full Apps\DataBases\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe.config
+F:\Projects\Full Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.exe
+F:\Projects\Full Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.pdb
+F:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe.config
+F:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.exe
+F:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.pdb
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe.config
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.pdb
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.csprojResolveAssemblyReference.cache
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.Journal.resources
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.LogIn.resources
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.Properties.Resources.resources
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.csproj.GenerateResource.Cache
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.exe
+E:\Projects\Apps\DataBases\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.pdb
